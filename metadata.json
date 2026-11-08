@@ -1,0 +1,6 @@
+{
+  "name": "EmotiVoice Studio",
+  "description": "Bengali-first AI Voice Production Studio & expressive Text to Speech with multi-character script acting direction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
